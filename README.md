@@ -1,8 +1,5 @@
 # Sistema de Perguntas e Respostas
 
-![Logo do Python](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png)
-
-
 Este projeto é um sistema de perguntas e respostas que oferece ao usuário opções ordenadas numericamente para responder a cada pergunta. É uma aplicação simples para teste de conhecimentos, onde as respostas corretas e incorretas são acompanhadas de feedback personalizado.
 
 ## Funcionalidades
@@ -29,6 +26,8 @@ Este projeto é um sistema de perguntas e respostas que oferece ao usuário opç
 1. Certifique-se de ter o Python instalado.
 2. Clone este repositório.
 3. No terminal, navegue até a pasta do projeto e execute o arquivo principal:
+
+![Logo do Python](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png)
 
 ```bash
 python sistema_de_pertuntas.py
