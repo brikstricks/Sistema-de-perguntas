@@ -20,11 +20,11 @@ Este projeto é um sistema de perguntas e respostas que oferece ao usuário opç
 
 ## Tecnologias Utilizadas
 
-- **Linguagem**: Python
-- **Estruturas**: Funções, loops e condicionais
+- **Python**: A linguagem principal utilizada para desenvolver a lógica do sistema e a interação com o usuário. Estou me especializando em Python, e este projeto é uma demonstração das minhas habilidades iniciais na linguagem.
+- **HTML**: Utilizado para estruturar a interface do usuário na versão web do projeto.
+- **CSS**: Usado para estilizar e melhorar a aparência da interface do usuário.
+- **JavaScript**: Implementado para gerenciar a lógica interativa da aplicação web, permitindo que as perguntas sejam exibidas e que as respostas sejam verificadas em tempo real.
 
-## Como Executar
+## Contribuições
 
-1. Certifique-se de ter o Python instalado.
-2. Clone este repositório.
-3. No terminal, navegue até a pasta do projeto e execute o arquivo principal:
+Sinta-se à vontade para contribuir com melhorias ou sugestões para este projeto!
