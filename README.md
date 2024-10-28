@@ -29,6 +29,3 @@ Este projeto é um sistema de perguntas e respostas que oferece ao usuário opç
 
 ![Logo do Python](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png)
 
-```bash
-python sistema_de_pertuntas.py
-
